@@ -1,5 +1,5 @@
 -- ================================================
--- CREACIÓN DE LA VISTA MATERIALIZADA
+-- CREACIÓN DE LA VISTA MATERIALIZADA (schema: law_frame)
 -- ================================================
 
 CREATE MATERIALIZED VIEW law_frame.legal_search_combined AS
