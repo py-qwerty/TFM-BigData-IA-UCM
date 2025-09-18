@@ -1,0 +1,12 @@
+numpy==2.3.2
+supabase==2.18.1
+python-dotenv==1.1.1
+fastapi[standard]==0.116.1
+uvicorn[standard]==0.35.0
+clarabel==0.11.1
+logging-config==1.0.4
+cvxpy                # última versión
+ecos>=2.0.14         # Embedded Cone Solver :contentReference[oaicite:1]{index=1}
+scs==3.2.8           # released: 10 agosto 2025 :contentReference[oaicite:2]{index=2}
+osqp==1.0.4          # released: 8 mayo 2025 :contentReference[oaicite:3]{index=3}
+clarabel==0.11.1     # released: 11 junio 2025 :contentReference[oaicite:4]{index=4}
