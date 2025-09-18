@@ -101,7 +101,6 @@ DATABASE_URL=postgresql://user:pass@host:5432/db
 ## Licencia y autoría
 - **Autor único**: **Pablo Fernández Lucas** (todo el código de este repo).
 - El uso de partes del código puede requerir acreditación a la academia colaboradora (cuando aplique).
-- Licencia: añade tu `LICENSE` preferida (p. ej., MIT).
 
 ---
 
